@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/Decwest/Decwest/">
-  <img src="https://komarev.com/ghpvc/?username=Decwest" alt="Decwest" />
-</a>
   
 <p align="left">
   <a href="http://twitter.com/uzu_st">
