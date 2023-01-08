@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
   
 <p align="left">
-  <a href="http://twitter.com/uzu_st">
+  <a href="http://twitter.com/decwxst">
     <img height="20" src="https://img.shields.io/twitter/follow/uzu_st?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/Decwest"> 
