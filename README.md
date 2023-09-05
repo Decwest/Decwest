@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Decwest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Decwest&layout=compact" />
-</a>
