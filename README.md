@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
   
 <p align="left">
-  <a href="http://twitter.com/decwxst">
-    <img height="20" src="https://img.shields.io/twitter/follow/decwxst?label=Twitter&logo=twitter&style=flat" />
+  <a href="https://x.com/decwxst">
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/dwcwxst?style=social">
+  </a>
+  <a href="https://decwest.github.io/"> 
+    <img alt="Static Badge" src="https://img.shields.io/badge/HP-decwest.io-blue">
   </a>
   <a href="http://qiita.com/Decwest"> 
     <img height="20" src="https://qiita-badge.apiapi.app/s/Decwest/posts.svg" />
